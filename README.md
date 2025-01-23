@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a dental student with a passion for programming.
+
 <!--
 **PixulMonk/PixulMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
