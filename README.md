@@ -1,5 +1,7 @@
 ## Hi, welcome to my profile!👋 
 
+![Frog Waiting for the Bus](https://raw.githubusercontent.com/PixulMonk/PixulMonk/main/By%20the%20Bus.gif)
+
 I'm a **dental student with a passion for programming**. Exploring how technology can innovate healthcare and beyond. Currently building projects in Python, learning new technologies, and enjoying the journey from dental drills to code scripts!
 
 
