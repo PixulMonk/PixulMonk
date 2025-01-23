@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi, welcome to my profile!👋 
 
-I'm a dental student with a passion for programming.
+I'm a **dental student with a passion for programming**. Exploring how technology can innovate healthcare and beyond. Currently building projects in Python, learning new technologies, and enjoying the journey from dental drills to code scripts!
+
 
 ### Skills
 <p align="left">
