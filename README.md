@@ -1,7 +1,3 @@
-Sure — here's your cleaned up, **text-only version**, no icons — clean and professional for GitHub:
-
----
-
 ## Hi, welcome to my profile! 👋
 
 ![Frog Waiting for the Bus](https://raw.githubusercontent.com/PixulMonk/PixulMonk/main/By%20the%20Bus.gif)
